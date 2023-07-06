@@ -1,0 +1,4 @@
+transformers==4.25.1
+langchain
+llama-index==0.6.20
+sentence-transformers
