@@ -127,4 +127,4 @@ class LexGenAIDemoFilesStack(Stack):
             auto_build_bot_locales=True
         )
 
-        
+
