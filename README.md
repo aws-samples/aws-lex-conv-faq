@@ -115,7 +115,7 @@ Versions > Publish new version
 
 Under this version 
    - Provisioned Concurrency > set value to 1
-   - Permissions > Resource based policy statements > Add Permissions > AWS Service > Other, your-policy-name, lexv2.amazonaws.com, your-lambda-arn, lamdba:InvokeFunction
+   - Permissions > Resource based policy statements > Add Permissions > AWS Service > Other, your-policy-name, lexv2.amazonaws.com, your-lex-bot-arn, lamdba:InvokeFunction
 
 Go to your Lex Bot (LexGenAIDemoBotCfn)
 
